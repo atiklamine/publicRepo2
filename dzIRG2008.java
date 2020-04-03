@@ -10,7 +10,7 @@ package dz.irg.twenty_o_eight;
  *
  * @author Atik Mohamed lamine
  */
-public class IRGMainClass {
+public class dzIRG2008 {
 
     public static int getIRG(int IMPOSABLE) {
         int IRG_A;
