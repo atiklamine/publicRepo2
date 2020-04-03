@@ -1,13 +1,14 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * this is a version of IRG2008 that allow users calculat the value
+ * of IRG based on the Imposable value
+ * Created on 2020
+ * email : atiklamine@gmail.com
  */
 package dz.irg.twenty_o_eight;
 
 /**
  *
- * @author AdminUser
+ * @author Atik Mohamed lamine
  */
 public class IRGMainClass {
 
