@@ -1,7 +1,7 @@
 /*
- * this is a version of IRG2008 that allow users calculat the value
- * of IRG based on the Imposable value
- * Created on 2020
+ * IRG2008 that calculats the value
+ * of IRG2008 based on the value passed in the parameters
+ * Version 2020
  * email : atiklamine@gmail.com
  */
 package dz.irg.twenty_o_eight;
