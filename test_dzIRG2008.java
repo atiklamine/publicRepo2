@@ -1,6 +1,6 @@
 /*
- * this class allow to test the dzIRG2008 class
- * it will generat the value of IRG2008 of based IRG vlues from 15000 to 500 000 DZD
+ * this class allows as to test the dzIRG2008 class
+ * this test generats the values of IRG2008 based on values from 15000 to 500 000 DZD
  */
 package dzIRG2008;
 
